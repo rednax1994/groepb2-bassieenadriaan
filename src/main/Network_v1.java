@@ -33,6 +33,9 @@ public class Network_v1 {
         feed1.addPhotoPost(pp3);
         
         feed1.show();
+        
+        
+        System.out.println("Banaan");
     }
     
 }
